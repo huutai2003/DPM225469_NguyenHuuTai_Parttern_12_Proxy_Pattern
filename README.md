@@ -1,0 +1,1 @@
+# DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern
